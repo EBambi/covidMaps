@@ -1,0 +1,8 @@
+#Pantalla 1
+Es el menú, donde trendrá 3 opciones para usar, la de opción de "Añadir Información" es la nos ayuda a llenar la base de dato con respecto 
+al virus Covid-19, la opción "Mapa" lleva a la graficación de un mapa local con la posibilidad de contagio por zonas.
+#Pantalla 2
+Esta pantalla es la que cada usuario tiene que llenar con sus datos y si ha estado infectado, tiene 2 opciones, "Envíar Información" y para
+devolverse al menú
+#Pantalla 3
+La última pantalla es el mapa donde se grafican los datos ingresados por los usuarios y solo tiene 1 opción para devolverse al menú
