@@ -1,4 +1,4 @@
-#Pasos para que funcionen los contenedores
+#Pasos para levantar contenedores
 sudo apt update
 sudo apt install docker.io -y
 sudo docker search "palabra clave"
