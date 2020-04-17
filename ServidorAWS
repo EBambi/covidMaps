@@ -1,2 +1,0 @@
-Se creará una instancia en la plataforma AWS con un servidor NFS que estará vinculado al contenedor de cada usuario con sus datos,
-para así proteger y manejar los datos por usuario.
